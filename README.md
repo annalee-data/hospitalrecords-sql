@@ -1,5 +1,5 @@
 # Hospital Records Analysis (SQL)
-*Hospital Patient & Doctors Analysis using Oracle SQL*
+*Hospital Patient & Doctors Analysis using Oracle SQL Developer*
 
 Analyzed hospital reports for answering business questions using SQL.
 <br>
