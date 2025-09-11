@@ -60,3 +60,5 @@ total of 500 rows
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
 | medication_name  | TEXT  | Medication name (e.g., "Simvastatin", "Omeprazole"  |
 | dosage  | BOOLEAN  | Dosage type (e.g., "50mg", "110mg")  |
+
+total of 300 rows
