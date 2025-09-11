@@ -9,9 +9,10 @@ You are working for a mid-sized hospital. Management wants to understand patient
 
 ⭐️ Goal: Create SQL queries to answer the following questions.
 1. What is the average hospital stay by condition?
-2. What is the most prescribed medication?
-3. Which doctors handle the most appointments?
-4. How does the doctor performance look like with patient outcomes?
+2. What is the patient discharge rate?
+3. What is the most prescribed medication?
+4. Which doctors handle the most appointments?
+5. How does the doctor performance look like with patient outcomes?
 
 <br>
 
@@ -27,7 +28,7 @@ There are a total of 4 CSV files used for this project. These datasets were crea
 | dob  | DATE  | Date of birth (MM/DD/YYYY)  |
 | admission_date  | DATE  | Date admitted (MM/DD/YYYY)  |
 | condition  | TEXT  | Condition (e.g., "arthritis", "diabetes")  |
-| discharged  | BOOLEAN  | "Improved", "No Change", "Worsened"  |
+| discharged  | BOOLEAN  | "true", "false"  |
 
 total of 200 rows.
 ### 2. [doctors.csv]()
@@ -36,7 +37,7 @@ total of 200 rows.
 | doctor_id  | INTEGER (PK)  | Unique ID  |
 | first_name  | TEXT  | Patient's first name  |
 | last_name  | TEXT  | Patient's last name  |
-| specialty  | TEXT  | Specialty type (e.g., )  |
+| specialty  | TEXT  | Specialty type (e.g., "Psychiatry", "Surgery")  |
 | experience  | INTEGER  | Years of experience  |
 
 total of 25 rows
@@ -47,7 +48,7 @@ total of 25 rows
 | patient_id  | INTEGER (FK)  | patient_id from patients dataset  |
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
 | appointment_date  | DATE  | Date of appointment  |
-| treatment  | TEXT  | Treatment type (e.g., )  |
+| treatment  | TEXT  | Treatment type (e.g., "acupuncture", "chiropractric")  |
 | outcome  | BOOLEAN  | "Improved", "No Change", "Worsened"  |
 
 total of 500 rows
@@ -57,5 +58,5 @@ total of 500 rows
 | prescription_id  | INTEGER (PK)  | Unique ID  |
 | patient_id  | INTEGER (FK)  | patient_id from patients dataset  |
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
-| medication_name  | TEXT  | Medication name (e.g., )  |
-| dosage  | BOOLEAN  | Dosage type (e.g., )  |
+| medication_name  | TEXT  | Medication name (e.g., "Simvastatin", "Omeprazole"  |
+| dosage  | BOOLEAN  | Dosage type (e.g., "50mg", "110mg")  |
