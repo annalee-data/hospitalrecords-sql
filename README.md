@@ -52,7 +52,7 @@ total of 25 rows
 | outcome  | BOOLEAN  | "Improved", "No Change", "Worsened"  |
 
 total of 500 rows
-### 4. [prescriptions]()
+### 4. [prescriptions](prescriptions.csv)
 | Variable Name | Type | Description |
 | :------- | :------: | :------ |
 | prescription_id  | INTEGER (PK)  | Unique ID  |
