@@ -18,7 +18,7 @@ You are working for a mid-sized hospital. Management wants to understand patient
 
 ## 2. Dataset
 There are a total of 4 CSV files used for this project. These datasets were created by Mockaroo, a random data generator.
-### 1. [patients.csv]() 
+### 1. [patients.csv](patients.csv) 
 | Variable Name | Type | Description |
 | :------- | :------: | :------ |
 | patient_id  | INTEGER (PK)  | Unique ID  |
