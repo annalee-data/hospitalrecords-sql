@@ -1,0 +1,501 @@
+appointment_id,patient_id,doctor_id,appointment_date,treatment,outcome
+1,64,1,09/30/2023,acupuncture,Improved
+2,37,9,04/05/2023,meditation,Improved
+3,56,15,04/01/2022,aromatherapy,Improved
+4,96,4,10/24/2023,chiropractic,Worsened
+5,58,1,02/13/2022,reflexology,Worsened
+6,55,1,05/26/2022,reflexology,Improved
+7,55,14,06/20/2022,reflexology,No Change
+8,64,15,11/20/2021,aromatherapy,Improved
+9,93,18,05/15/2021,chiropractic,Worsened
+10,37,19,03/08/2023,hypnotherapy,Worsened
+11,68,16,11/26/2022,massage,Worsened
+12,77,9,05/03/2022,yoga,No Change
+13,47,6,02/09/2021,reflexology,No Change
+14,57,19,12/06/2023,yoga,Improved
+15,63,2,05/08/2021,reflexology,No Change
+16,28,17,01/11/2021,acupuncture,Worsened
+17,70,21,10/12/2022,acupuncture,No Change
+18,28,11,02/14/2023,chiropractic,Worsened
+19,43,5,07/22/2022,chiropractic,Worsened
+20,66,17,06/15/2023,massage,No Change
+21,27,11,01/19/2023,acupuncture,Improved
+22,8,8,12/12/2022,massage,Worsened
+23,1,20,09/05/2021,yoga,No Change
+24,51,16,08/04/2022,meditation,Improved
+25,28,5,01/13/2021,massage,No Change
+26,69,4,01/31/2021,aromatherapy,No Change
+27,80,13,07/31/2021,massage,Improved
+28,41,1,09/01/2023,hypnotherapy,Improved
+29,82,11,03/06/2021,hypnotherapy,Worsened
+30,59,7,09/17/2023,acupuncture,Worsened
+31,63,8,07/14/2021,aromatherapy,No Change
+32,76,11,04/22/2023,reflexology,No Change
+33,3,10,08/23/2022,meditation,Worsened
+34,57,6,09/25/2021,chiropractic,Improved
+35,49,16,01/27/2023,acupuncture,Worsened
+36,35,24,11/20/2022,massage,Improved
+37,36,19,04/19/2022,yoga,No Change
+38,16,2,02/27/2022,reflexology,No Change
+39,87,22,10/03/2022,aromatherapy,Improved
+40,100,3,04/14/2023,chiropractic,Worsened
+41,80,18,11/16/2022,chiropractic,Worsened
+42,9,12,09/05/2021,aromatherapy,Worsened
+43,32,19,07/03/2021,meditation,No Change
+44,44,10,03/08/2023,meditation,Improved
+45,30,25,03/30/2023,massage,Worsened
+46,16,24,10/17/2022,aromatherapy,No Change
+47,56,9,11/01/2023,aromatherapy,Improved
+48,73,19,01/18/2021,aromatherapy,No Change
+49,10,21,11/03/2022,yoga,No Change
+50,22,4,01/09/2021,massage,No Change
+51,49,9,04/24/2023,hypnotherapy,Improved
+52,68,15,12/10/2023,meditation,No Change
+53,1,9,11/17/2023,reflexology,Worsened
+54,74,6,05/19/2022,acupuncture,Improved
+55,34,9,09/16/2022,hypnotherapy,Worsened
+56,91,21,02/22/2023,massage,Worsened
+57,87,25,11/12/2022,reflexology,Worsened
+58,5,8,06/24/2021,acupuncture,Worsened
+59,5,16,02/21/2023,meditation,Improved
+60,91,8,06/02/2021,meditation,Worsened
+61,34,4,01/09/2023,reflexology,Improved
+62,92,23,11/27/2021,yoga,Improved
+63,49,16,04/15/2022,reflexology,Worsened
+64,62,13,10/08/2023,hypnotherapy,Improved
+65,61,8,08/17/2023,meditation,Improved
+66,36,17,07/01/2022,hypnotherapy,Improved
+67,38,24,06/14/2022,massage,Worsened
+68,100,3,05/25/2022,reflexology,No Change
+69,78,22,09/24/2022,yoga,No Change
+70,31,8,09/13/2023,massage,No Change
+71,69,1,11/06/2022,chiropractic,No Change
+72,10,10,08/25/2021,yoga,Improved
+73,40,23,10/24/2023,meditation,Improved
+74,26,3,09/28/2021,hypnotherapy,Improved
+75,22,20,02/03/2022,hypnotherapy,Worsened
+76,40,25,08/22/2023,yoga,Worsened
+77,95,16,06/09/2021,meditation,Worsened
+78,44,2,07/30/2023,chiropractic,Improved
+79,1,11,03/17/2023,meditation,Worsened
+80,16,23,10/31/2022,acupuncture,Improved
+81,1,25,05/18/2023,meditation,No Change
+82,66,10,12/14/2023,aromatherapy,Worsened
+83,68,13,10/05/2022,hypnotherapy,Improved
+84,6,13,09/17/2021,massage,Worsened
+85,33,19,10/17/2021,yoga,Improved
+86,21,14,07/16/2023,meditation,No Change
+87,50,19,07/23/2023,massage,Improved
+88,95,22,01/22/2022,yoga,No Change
+89,82,3,09/23/2022,chiropractic,Improved
+90,31,22,05/08/2022,acupuncture,No Change
+91,11,14,03/07/2023,chiropractic,Improved
+92,32,20,01/18/2022,meditation,Worsened
+93,39,23,08/14/2023,chiropractic,Improved
+94,51,16,11/05/2022,hypnotherapy,No Change
+95,19,17,08/28/2021,acupuncture,No Change
+96,57,17,07/04/2022,chiropractic,No Change
+97,4,18,02/12/2023,chiropractic,No Change
+98,50,19,07/26/2023,hypnotherapy,Improved
+99,97,18,06/11/2022,acupuncture,No Change
+100,82,13,04/10/2023,reflexology,Worsened
+101,77,24,07/18/2022,reflexology,Improved
+102,4,25,01/17/2022,reflexology,Improved
+103,64,2,01/05/2021,aromatherapy,No Change
+104,76,19,04/01/2023,hypnotherapy,No Change
+105,12,24,03/19/2021,acupuncture,Improved
+106,24,14,05/24/2021,reflexology,Improved
+107,80,22,04/17/2021,massage,Improved
+108,73,5,01/29/2021,reflexology,No Change
+109,72,21,10/08/2023,meditation,Improved
+110,8,20,06/27/2021,meditation,Worsened
+111,22,16,07/14/2021,massage,Worsened
+112,65,6,03/14/2021,yoga,No Change
+113,45,19,09/13/2023,massage,Worsened
+114,93,7,10/02/2021,reflexology,Improved
+115,11,18,05/12/2023,acupuncture,No Change
+116,49,23,09/25/2022,chiropractic,Improved
+117,50,21,07/05/2022,aromatherapy,No Change
+118,49,21,03/06/2021,yoga,No Change
+119,3,17,04/13/2021,reflexology,Improved
+120,91,5,02/03/2023,chiropractic,No Change
+121,21,23,05/03/2023,aromatherapy,No Change
+122,63,11,11/05/2022,hypnotherapy,Improved
+123,79,15,09/05/2021,chiropractic,No Change
+124,89,24,10/08/2021,acupuncture,No Change
+125,32,13,03/02/2022,chiropractic,Improved
+126,87,2,01/26/2023,acupuncture,No Change
+127,29,9,07/30/2021,massage,No Change
+128,71,3,08/12/2022,massage,No Change
+129,17,14,05/12/2021,hypnotherapy,Improved
+130,17,15,11/09/2021,massage,Improved
+131,46,25,12/31/2021,yoga,Worsened
+132,27,9,04/21/2022,massage,Worsened
+133,31,4,11/14/2023,massage,Improved
+134,43,14,06/10/2023,yoga,Worsened
+135,54,5,11/05/2023,hypnotherapy,Improved
+136,56,15,06/19/2021,yoga,No Change
+137,1,23,05/16/2023,acupuncture,No Change
+138,21,16,11/24/2022,chiropractic,Worsened
+139,40,15,08/12/2021,yoga,Worsened
+140,77,21,05/19/2023,acupuncture,Worsened
+141,48,6,02/06/2021,chiropractic,Worsened
+142,81,8,07/21/2023,chiropractic,Improved
+143,60,21,06/18/2022,meditation,Worsened
+144,94,24,01/20/2022,massage,Improved
+145,86,20,10/18/2021,reflexology,No Change
+146,60,7,07/17/2023,acupuncture,Improved
+147,23,17,05/22/2022,acupuncture,Worsened
+148,43,17,05/11/2023,hypnotherapy,No Change
+149,72,2,07/16/2023,chiropractic,Improved
+150,31,10,02/09/2023,massage,Worsened
+151,77,19,06/01/2021,aromatherapy,Improved
+152,30,7,04/12/2022,meditation,Worsened
+153,12,24,05/11/2023,acupuncture,Worsened
+154,15,15,11/29/2021,aromatherapy,Worsened
+155,2,20,12/02/2023,chiropractic,Worsened
+156,34,18,01/20/2021,meditation,Improved
+157,72,20,05/25/2023,reflexology,Worsened
+158,51,13,01/11/2023,aromatherapy,No Change
+159,96,14,10/03/2022,yoga,Improved
+160,16,24,01/15/2021,meditation,No Change
+161,14,1,06/19/2021,massage,No Change
+162,47,22,08/23/2021,yoga,Worsened
+163,80,12,08/27/2022,chiropractic,No Change
+164,35,5,03/15/2022,reflexology,Worsened
+165,77,7,02/12/2023,acupuncture,Worsened
+166,50,2,08/26/2022,reflexology,No Change
+167,16,21,03/12/2023,chiropractic,Improved
+168,28,21,01/23/2021,yoga,No Change
+169,32,12,11/08/2022,acupuncture,Worsened
+170,67,24,08/05/2023,acupuncture,Worsened
+171,28,7,08/07/2021,yoga,Worsened
+172,47,4,10/06/2022,aromatherapy,Improved
+173,89,12,09/24/2021,yoga,No Change
+174,73,11,09/28/2023,chiropractic,Worsened
+175,16,22,04/05/2021,acupuncture,Improved
+176,30,17,08/26/2022,acupuncture,Worsened
+177,87,4,10/20/2021,yoga,Improved
+178,5,9,04/26/2021,yoga,Worsened
+179,33,10,08/26/2023,acupuncture,Worsened
+180,99,10,02/24/2023,chiropractic,No Change
+181,100,2,10/12/2021,aromatherapy,Improved
+182,17,14,12/02/2021,aromatherapy,No Change
+183,50,8,05/23/2023,yoga,No Change
+184,20,2,01/06/2021,reflexology,No Change
+185,44,8,05/31/2022,aromatherapy,Worsened
+186,66,9,12/20/2023,yoga,Worsened
+187,58,15,11/27/2023,reflexology,No Change
+188,27,9,02/15/2022,yoga,Improved
+189,97,3,10/08/2022,hypnotherapy,Worsened
+190,21,12,05/09/2022,acupuncture,No Change
+191,71,20,03/14/2021,yoga,Worsened
+192,15,14,10/22/2021,chiropractic,No Change
+193,95,21,02/08/2022,meditation,Worsened
+194,23,17,10/14/2022,aromatherapy,Improved
+195,45,23,05/08/2021,massage,Worsened
+196,39,9,04/22/2022,chiropractic,No Change
+197,23,1,07/19/2022,chiropractic,Improved
+198,15,2,06/03/2021,hypnotherapy,Worsened
+199,22,2,09/08/2021,meditation,No Change
+200,15,15,07/18/2023,acupuncture,No Change
+201,42,23,02/16/2023,meditation,Worsened
+202,51,18,10/14/2023,hypnotherapy,No Change
+203,78,24,05/17/2022,reflexology,No Change
+204,72,9,10/15/2023,chiropractic,Worsened
+205,63,17,02/05/2022,hypnotherapy,Worsened
+206,21,6,12/20/2021,reflexology,No Change
+207,73,8,07/31/2021,yoga,Improved
+208,1,20,05/29/2023,aromatherapy,Improved
+209,70,8,12/07/2023,acupuncture,Improved
+210,51,15,02/06/2022,aromatherapy,No Change
+211,72,8,09/15/2022,acupuncture,Improved
+212,55,12,09/16/2023,reflexology,No Change
+213,66,17,04/28/2021,massage,Worsened
+214,52,25,03/18/2022,massage,No Change
+215,77,16,10/01/2023,massage,Worsened
+216,64,23,05/01/2022,yoga,Worsened
+217,7,24,10/05/2022,chiropractic,Improved
+218,46,2,08/26/2021,yoga,Worsened
+219,84,20,12/20/2023,chiropractic,No Change
+220,63,25,05/07/2023,chiropractic,Worsened
+221,72,11,04/21/2021,chiropractic,Worsened
+222,94,22,04/11/2023,yoga,No Change
+223,71,20,06/17/2022,reflexology,No Change
+224,58,13,07/28/2021,reflexology,Improved
+225,43,20,11/28/2023,reflexology,No Change
+226,48,6,12/21/2022,hypnotherapy,No Change
+227,88,6,05/26/2021,massage,Improved
+228,27,9,04/16/2021,meditation,No Change
+229,7,16,09/12/2023,chiropractic,Worsened
+230,91,16,10/14/2023,yoga,Improved
+231,76,24,07/01/2023,yoga,Worsened
+232,25,17,01/30/2023,massage,No Change
+233,9,1,10/08/2023,yoga,Improved
+234,11,15,02/05/2023,massage,Worsened
+235,47,21,01/23/2023,aromatherapy,Worsened
+236,58,10,12/04/2023,aromatherapy,Worsened
+237,33,25,09/19/2021,acupuncture,No Change
+238,25,15,02/27/2022,massage,No Change
+239,77,2,01/07/2021,acupuncture,Improved
+240,38,13,09/30/2023,aromatherapy,Improved
+241,92,4,01/26/2023,hypnotherapy,Improved
+242,93,21,12/06/2023,hypnotherapy,Worsened
+243,12,14,05/11/2022,aromatherapy,No Change
+244,69,13,12/31/2022,hypnotherapy,Improved
+245,83,11,08/03/2021,massage,Improved
+246,73,4,11/25/2021,reflexology,No Change
+247,40,6,02/20/2022,yoga,Worsened
+248,66,6,12/14/2022,hypnotherapy,Worsened
+249,41,3,12/04/2023,meditation,Improved
+250,27,11,04/29/2022,hypnotherapy,Improved
+251,27,6,10/18/2021,reflexology,Worsened
+252,96,16,02/27/2022,meditation,Worsened
+253,33,21,04/08/2021,hypnotherapy,Improved
+254,15,13,07/03/2023,massage,Worsened
+255,47,6,03/17/2021,massage,Worsened
+256,90,1,05/30/2023,aromatherapy,No Change
+257,78,8,01/31/2022,yoga,Improved
+258,33,4,10/25/2022,aromatherapy,Improved
+259,97,21,09/13/2022,yoga,Worsened
+260,22,16,10/28/2023,aromatherapy,Worsened
+261,83,3,02/17/2021,aromatherapy,Worsened
+262,90,9,07/15/2023,acupuncture,Improved
+263,19,14,04/24/2022,reflexology,No Change
+264,61,6,11/05/2022,aromatherapy,No Change
+265,32,4,12/23/2022,reflexology,No Change
+266,80,19,03/20/2023,massage,Improved
+267,77,5,04/13/2021,hypnotherapy,Improved
+268,72,22,06/27/2023,hypnotherapy,No Change
+269,94,12,01/07/2021,hypnotherapy,Worsened
+270,38,11,05/21/2021,acupuncture,Worsened
+271,87,22,06/12/2021,massage,Improved
+272,100,5,07/25/2022,yoga,Improved
+273,85,12,05/29/2023,aromatherapy,No Change
+274,85,13,07/15/2022,reflexology,Worsened
+275,5,25,10/21/2021,meditation,No Change
+276,12,20,12/04/2022,massage,No Change
+277,63,25,03/05/2021,massage,Improved
+278,81,2,10/24/2022,hypnotherapy,Worsened
+279,71,13,09/02/2021,reflexology,Improved
+280,73,22,01/27/2021,meditation,Worsened
+281,18,17,09/01/2023,aromatherapy,Improved
+282,39,5,06/30/2022,yoga,No Change
+283,45,9,06/14/2021,yoga,Worsened
+284,12,23,07/31/2022,hypnotherapy,Improved
+285,42,8,08/01/2023,reflexology,Worsened
+286,1,2,06/29/2021,meditation,Improved
+287,52,20,11/21/2021,meditation,Worsened
+288,31,14,03/19/2022,chiropractic,Worsened
+289,79,4,06/07/2022,chiropractic,Improved
+290,2,12,01/30/2022,aromatherapy,No Change
+291,68,3,06/25/2022,meditation,No Change
+292,6,4,12/13/2023,reflexology,Worsened
+293,22,17,09/07/2022,meditation,No Change
+294,81,6,11/27/2023,acupuncture,No Change
+295,51,5,02/18/2023,massage,Improved
+296,52,11,02/21/2023,hypnotherapy,Worsened
+297,95,7,09/19/2023,yoga,No Change
+298,41,15,02/21/2023,chiropractic,Worsened
+299,13,16,09/16/2022,yoga,No Change
+300,50,16,12/20/2021,meditation,Improved
+301,14,14,07/08/2023,acupuncture,Worsened
+302,95,5,10/28/2022,chiropractic,Worsened
+303,13,4,11/10/2023,hypnotherapy,Improved
+304,18,16,10/19/2023,yoga,Improved
+305,15,3,03/17/2021,yoga,No Change
+306,84,17,02/11/2021,massage,Improved
+307,35,9,05/23/2022,acupuncture,Improved
+308,13,17,12/16/2021,massage,No Change
+309,24,14,03/09/2022,aromatherapy,Worsened
+310,10,15,02/19/2022,massage,No Change
+311,14,5,10/23/2022,meditation,No Change
+312,32,16,11/29/2022,chiropractic,Improved
+313,98,4,08/19/2022,meditation,Worsened
+314,81,15,04/22/2021,reflexology,No Change
+315,38,19,04/14/2023,meditation,Worsened
+316,55,19,05/08/2022,acupuncture,Improved
+317,94,23,03/31/2021,hypnotherapy,Worsened
+318,14,7,05/30/2022,meditation,Worsened
+319,10,24,07/01/2022,meditation,No Change
+320,72,4,02/21/2021,hypnotherapy,Worsened
+321,1,14,04/07/2022,aromatherapy,No Change
+322,23,20,09/24/2021,hypnotherapy,Improved
+323,12,17,10/08/2022,yoga,Improved
+324,88,9,05/29/2022,hypnotherapy,Improved
+325,74,1,04/21/2022,yoga,No Change
+326,55,5,01/17/2021,massage,No Change
+327,22,20,04/30/2022,acupuncture,No Change
+328,25,8,09/09/2022,massage,No Change
+329,89,2,02/27/2022,reflexology,No Change
+330,55,10,10/25/2022,meditation,No Change
+331,100,7,08/07/2023,yoga,Improved
+332,44,17,08/15/2022,acupuncture,Improved
+333,15,14,06/17/2021,hypnotherapy,Worsened
+334,15,16,07/08/2021,meditation,No Change
+335,77,25,01/27/2022,chiropractic,Improved
+336,11,8,12/09/2023,acupuncture,Improved
+337,51,15,10/20/2021,yoga,Worsened
+338,50,11,03/27/2022,yoga,Improved
+339,73,19,12/16/2022,chiropractic,Worsened
+340,51,7,06/13/2022,acupuncture,No Change
+341,65,21,04/07/2023,chiropractic,Worsened
+342,96,15,12/06/2021,hypnotherapy,No Change
+343,52,18,10/12/2023,meditation,No Change
+344,96,15,04/10/2021,hypnotherapy,Worsened
+345,13,16,06/07/2021,yoga,Improved
+346,12,17,03/05/2021,yoga,No Change
+347,90,7,05/22/2022,aromatherapy,Improved
+348,52,11,01/16/2022,reflexology,Improved
+349,50,25,09/24/2021,acupuncture,Improved
+350,15,6,07/29/2023,meditation,Worsened
+351,10,1,11/21/2022,meditation,Worsened
+352,55,12,02/13/2023,aromatherapy,Improved
+353,27,8,03/01/2023,massage,No Change
+354,62,19,03/02/2023,meditation,Worsened
+355,20,22,07/08/2022,chiropractic,Improved
+356,74,4,06/18/2023,acupuncture,No Change
+357,24,5,04/04/2021,massage,Worsened
+358,56,7,05/03/2022,reflexology,Improved
+359,53,21,02/09/2021,reflexology,Worsened
+360,75,11,06/03/2021,yoga,No Change
+361,55,11,02/16/2022,acupuncture,Improved
+362,13,22,06/29/2023,acupuncture,Worsened
+363,14,24,07/04/2021,reflexology,Worsened
+364,35,14,10/23/2021,massage,Improved
+365,20,12,08/13/2023,meditation,Improved
+366,70,19,12/10/2021,acupuncture,No Change
+367,67,12,11/22/2021,massage,No Change
+368,3,2,05/19/2023,massage,Improved
+369,94,24,05/18/2023,reflexology,Worsened
+370,42,24,02/20/2021,yoga,No Change
+371,37,6,01/18/2022,massage,No Change
+372,97,13,10/10/2023,meditation,Improved
+373,79,22,08/23/2022,meditation,Worsened
+374,91,21,04/13/2021,chiropractic,Worsened
+375,42,4,10/08/2021,chiropractic,Worsened
+376,80,12,04/18/2022,reflexology,Worsened
+377,19,8,09/11/2022,acupuncture,Worsened
+378,12,3,03/14/2023,chiropractic,No Change
+379,89,16,05/10/2022,massage,No Change
+380,5,23,07/05/2022,yoga,No Change
+381,5,25,07/15/2022,meditation,No Change
+382,40,11,12/12/2021,hypnotherapy,No Change
+383,24,16,10/13/2021,yoga,Worsened
+384,87,8,10/08/2022,massage,No Change
+385,4,24,12/29/2022,hypnotherapy,Worsened
+386,43,5,08/14/2023,acupuncture,Worsened
+387,60,4,06/16/2022,chiropractic,Improved
+388,77,8,06/05/2023,acupuncture,No Change
+389,55,18,04/27/2022,reflexology,Worsened
+390,69,21,02/13/2023,hypnotherapy,No Change
+391,84,10,09/26/2021,acupuncture,Improved
+392,33,10,03/08/2022,aromatherapy,Improved
+393,84,13,02/14/2023,hypnotherapy,Worsened
+394,53,25,05/06/2022,hypnotherapy,Worsened
+395,58,5,05/18/2023,hypnotherapy,Worsened
+396,15,14,06/17/2021,meditation,No Change
+397,85,23,02/15/2021,hypnotherapy,Worsened
+398,11,23,12/14/2022,chiropractic,Worsened
+399,9,8,06/11/2023,chiropractic,No Change
+400,71,13,04/28/2023,chiropractic,Worsened
+401,80,15,05/19/2023,aromatherapy,Worsened
+402,79,7,02/07/2022,chiropractic,Worsened
+403,59,14,12/14/2021,acupuncture,No Change
+404,11,7,05/29/2023,yoga,No Change
+405,10,19,01/21/2021,yoga,Improved
+406,47,5,04/11/2023,yoga,Improved
+407,67,4,12/13/2023,yoga,Worsened
+408,83,8,11/26/2023,meditation,Improved
+409,27,2,12/18/2021,aromatherapy,Improved
+410,41,16,10/20/2023,hypnotherapy,No Change
+411,22,18,02/14/2022,yoga,Improved
+412,1,5,08/11/2022,yoga,Worsened
+413,2,23,05/22/2022,yoga,Improved
+414,71,7,06/09/2022,meditation,No Change
+415,34,2,05/11/2021,reflexology,No Change
+416,24,6,10/01/2022,reflexology,Worsened
+417,82,7,12/03/2021,aromatherapy,Worsened
+418,88,23,04/08/2022,yoga,Worsened
+419,54,12,01/31/2023,aromatherapy,Improved
+420,10,17,03/07/2023,meditation,No Change
+421,14,25,03/03/2022,acupuncture,No Change
+422,29,5,01/05/2022,acupuncture,Improved
+423,78,1,01/09/2023,massage,Improved
+424,34,21,06/26/2022,acupuncture,Improved
+425,68,13,07/27/2021,aromatherapy,No Change
+426,70,16,12/11/2022,massage,Improved
+427,73,13,12/21/2023,meditation,Improved
+428,47,7,03/16/2022,massage,Worsened
+429,12,16,07/04/2023,yoga,Improved
+430,51,15,07/11/2022,hypnotherapy,Improved
+431,54,3,10/29/2022,yoga,Worsened
+432,91,9,11/08/2023,massage,No Change
+433,56,22,05/15/2022,acupuncture,Improved
+434,39,8,03/22/2022,yoga,Improved
+435,45,22,03/07/2023,aromatherapy,Improved
+436,94,5,05/02/2021,hypnotherapy,Improved
+437,3,10,05/22/2023,aromatherapy,Improved
+438,49,21,11/08/2021,massage,Improved
+439,5,3,01/02/2022,aromatherapy,No Change
+440,94,8,07/01/2023,massage,Worsened
+441,37,4,10/16/2021,chiropractic,No Change
+442,31,9,02/25/2022,acupuncture,Worsened
+443,32,3,10/22/2022,yoga,Improved
+444,3,21,02/18/2022,aromatherapy,No Change
+445,78,3,04/09/2022,hypnotherapy,Worsened
+446,8,25,08/21/2022,reflexology,Improved
+447,46,7,05/23/2022,chiropractic,No Change
+448,65,22,12/02/2021,meditation,Improved
+449,9,1,07/20/2022,aromatherapy,Improved
+450,35,14,07/21/2022,yoga,No Change
+451,24,13,01/31/2023,meditation,No Change
+452,18,20,10/10/2021,meditation,Improved
+453,26,21,12/26/2022,chiropractic,No Change
+454,31,21,04/07/2021,chiropractic,Worsened
+455,4,21,03/27/2022,hypnotherapy,Improved
+456,28,22,09/13/2021,meditation,Worsened
+457,57,25,08/30/2021,meditation,Improved
+458,31,14,04/28/2021,acupuncture,Improved
+459,54,18,10/07/2023,chiropractic,Improved
+460,76,5,10/21/2021,yoga,Improved
+461,78,9,02/21/2022,chiropractic,No Change
+462,4,2,12/15/2022,hypnotherapy,Worsened
+463,20,2,07/16/2023,reflexology,No Change
+464,68,16,05/06/2021,yoga,No Change
+465,80,24,09/04/2021,hypnotherapy,Worsened
+466,77,10,07/09/2023,hypnotherapy,Improved
+467,6,15,07/11/2022,reflexology,Improved
+468,50,8,03/21/2022,massage,Improved
+469,73,13,11/04/2023,hypnotherapy,Improved
+470,46,2,10/27/2023,acupuncture,Improved
+471,90,15,09/27/2022,meditation,Worsened
+472,4,22,09/17/2022,reflexology,Improved
+473,50,25,09/10/2023,hypnotherapy,No Change
+474,78,4,02/20/2022,meditation,Worsened
+475,69,24,09/26/2021,yoga,Worsened
+476,6,24,03/26/2022,aromatherapy,No Change
+477,5,20,02/07/2022,meditation,No Change
+478,6,25,03/17/2023,hypnotherapy,Improved
+479,21,19,01/31/2022,yoga,Improved
+480,67,9,03/03/2021,acupuncture,Improved
+481,81,19,04/15/2022,meditation,Improved
+482,81,19,11/01/2022,acupuncture,Improved
+483,84,18,06/28/2022,meditation,Improved
+484,49,7,03/13/2021,acupuncture,Worsened
+485,15,12,08/23/2023,acupuncture,Improved
+486,2,1,02/03/2022,yoga,No Change
+487,14,4,12/12/2021,hypnotherapy,No Change
+488,67,6,09/16/2021,acupuncture,Improved
+489,9,10,03/09/2021,massage,No Change
+490,3,20,12/25/2021,chiropractic,No Change
+491,81,11,10/11/2022,reflexology,Worsened
+492,56,15,06/08/2023,acupuncture,No Change
+493,42,16,01/29/2023,aromatherapy,Improved
+494,20,7,03/03/2022,meditation,No Change
+495,37,2,08/04/2023,meditation,No Change
+496,37,20,06/23/2021,hypnotherapy,Improved
+497,87,13,06/17/2022,reflexology,Improved
+498,54,17,09/05/2021,acupuncture,Improved
+499,83,25,06/02/2022,acupuncture,Improved
+500,69,12,11/20/2022,massage,Worsened
