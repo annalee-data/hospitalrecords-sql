@@ -31,7 +31,7 @@ There are a total of 4 CSV files used for this project. These datasets were crea
 | discharged  | BOOLEAN  | "true", "false"  |
 
 total of 200 rows.
-### 2. [doctors.csv]()
+### 2. [doctors.csv](doctors.csv)
 | Variable Name | Type | Description |
 | :------- | :------: | :------ |
 | doctor_id  | INTEGER (PK)  | Unique ID  |
