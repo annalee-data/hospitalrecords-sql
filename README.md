@@ -25,8 +25,8 @@ There are a total of 4 CSV files used for this project. These datasets were crea
 | first_name  | TEXT  | Patient's first name  |
 | last_name  | TEXT  | Patient's last name  |
 | gender  | TEXT  | M/F  |
-| dob  | DATE  | Date of birth (MM/DD/YYYY)  |
-| admission_date  | DATE  | Date admitted (MM/DD/YYYY)  |
+| dob  | DATE  | Date of birth (MM/DD/YYYY), 01/01/1940-12/31/2015  |
+| admission_date  | DATE  | Date admitted (MM/DD/YYYY), 01/01/2021-12/31/2023  |
 | condition  | TEXT  | Condition (e.g., "arthritis", "diabetes")  |
 | discharged  | BOOLEAN  | "true", "false"  |
 
@@ -47,7 +47,7 @@ total of 25 rows
 | appointment_id  | INTEGER (PK)  | Unique ID  |
 | patient_id  | INTEGER (FK)  | patient_id from patients dataset  |
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
-| appointment_date  | DATE  | Date of appointment  |
+| appointment_date  | DATE  | Date of appointment (MM/DD/YYYY), 01/01/2021-12/31/2023 |
 | treatment  | TEXT  | Treatment type (e.g., "acupuncture", "chiropractric")  |
 | outcome  | BOOLEAN  | "Improved", "No Change", "Worsened"  |
 
@@ -62,3 +62,5 @@ total of 500 rows
 | dosage  | BOOLEAN  | Dosage type (e.g., "50mg", "110mg")  |
 
 total of 300 rows
+
+
