@@ -41,7 +41,7 @@ total of 200 rows.
 | experience  | INTEGER  | Years of experience  |
 
 total of 25 rows
-### 3. [appointments.csv]()
+### 3. [appointments.csv](appointments.csv)
 | Variable Name | Type | Description |
 | :------- | :------: | :------ |
 | appointment_id  | INTEGER (PK)  | Unique ID  |
