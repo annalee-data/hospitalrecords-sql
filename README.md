@@ -64,3 +64,11 @@ total of 500 rows
 total of 300 rows
 
 
+## 3. ERD (Entity-Relationship Diagram)
+Using data dictionary on Oracel SQL Developer, I created an ERD.
+
+[HospitalERD.pdf](https://github.com/user-attachments/files/22398480/HospitalERD.pdf)
+
+
+
+
