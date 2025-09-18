@@ -69,6 +69,7 @@ total of 300 rows
 Using data dictionary on Oracel SQL Developer, I created an ERD.
 
 <img width="759" height="535" alt="Screenshot 2025-09-17 at 8 39 23 PM" src="https://github.com/user-attachments/assets/8ac6157a-a4b8-4a4d-85a8-fbae046eedd8" />
-pdf file [here]()
+
+pdf file [here](HospitalERD.pdf)
 
 
