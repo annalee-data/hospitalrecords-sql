@@ -20,7 +20,7 @@ You are working for a mid-sized hospital. Management wants to understand patient
 There are a total of 4 CSV files used for this project. These datasets were created by Mockaroo, a random data generator.
 ### 1. [patients.csv]() 
 | Variable Name | Type | Description |
-| :------- | :------: | :------: |
+| :------- | :------: | :------ |
 | patient_id  | INTEGER (PK)  | Unique ID  |
 | first_name  | TEXT  | Patient's first name  |
 | last_name  | TEXT  | Patient's last name  |
@@ -33,7 +33,7 @@ There are a total of 4 CSV files used for this project. These datasets were crea
 total of 200 rows.
 ### 2. [doctors.csv]()
 | Variable Name | Type | Description |
-| :------- | :------: | :------: |
+| :------- | :------: | :------ |
 | doctor_id  | INTEGER (PK)  | Unique ID  |
 | first_name  | TEXT  | Patient's first name  |
 | last_name  | TEXT  | Patient's last name  |
@@ -43,7 +43,7 @@ total of 200 rows.
 total of 25 rows
 ### 3. [appointments.csv]()
 | Variable Name | Type | Description |
-| :------- | :------: | :------: |
+| :------- | :------: | :------ |
 | appointment_id  | INTEGER (PK)  | Unique ID  |
 | patient_id  | INTEGER (FK)  | patient_id from patients dataset  |
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
@@ -54,7 +54,7 @@ total of 25 rows
 total of 500 rows
 ### 4. [prescriptions]()
 | Variable Name | Type | Description |
-| :------- | :------: | :------: |
+| :------- | :------: | :------ |
 | prescription_id  | INTEGER (PK)  | Unique ID  |
 | patient_id  | INTEGER (FK)  | patient_id from patients dataset  |
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
