@@ -70,13 +70,17 @@ Using data dictionary on Oracel SQL Developer, I created an ERD.
 
 <img width="844" height="623" alt="Screenshot 2025-09-19 at 9 42 56 PM" src="https://github.com/user-attachments/assets/956d0cab-e204-4925-9711-52a32a7ed3e3" />
 
-*pdf file [here]()*
+*pdf file [here](Hospital ERD.pdf)*
 
 <br>
 
 ## 4. Assigning PK and FK
 Due to creating the datasets separately through a random data generator, I had to query to manually create relationships using FOREIGN KEY and PRIMARY KEY.
+
 <img width="408" height="382" alt="Screenshot 2025-09-19 at 9 44 34 PM" src="https://github.com/user-attachments/assets/58343a7e-afe6-4c95-a7b3-f4d8c28fbbde" />
 
+- ALTER TABLE:
 - ADD CONSTRAINT:
-- 
+- PRIMARY KEY:
+- FOREIGN KEY:
+- REFERENCES: 
