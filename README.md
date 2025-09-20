@@ -58,7 +58,7 @@ total of 500 rows
 | prescription_id  | INTEGER (PK)  | Unique ID  |
 | patient_id  | INTEGER (FK)  | patient_id from patients dataset  |
 | doctor_id  | INTEGER (FK)  | doctor_id from doctors dataset  |
-| medication_name  | TEXT  | Medication name (e.g., "Simvastatin", "Omeprazole"  |
+| medication_name  | TEXT  | Medication name (e.g., "Simvastatin", "Omeprazole")  |
 | dosage  | BOOLEAN  | Dosage type (e.g., "50mg", "110mg")  |
 
 total of 300 rows
@@ -79,8 +79,15 @@ Due to creating the datasets separately through a random data generator, I had t
 
 <img width="408" height="382" alt="Screenshot 2025-09-19 at 9 44 34 PM" src="https://github.com/user-attachments/assets/58343a7e-afe6-4c95-a7b3-f4d8c28fbbde" />
 
-- ALTER TABLE:
-- ADD CONSTRAINT:
-- PRIMARY KEY:
-- FOREIGN KEY:
-- REFERENCES: 
+
+<br>
+<br>
+
+EXPLANATION
+- **ALTER TABLE** table_name: used to modify the structure of an existing table.
+- **ADD CONSTRAINT** constraint_name <ins>type of rule</ins> column_name: used to define a new rule for an existing column.
+
+    <ins>type of rule</ins> used:
+    - PRIMARY KEY: uniquely identifies each row
+    - FOREIGN KEY: creates a link between two tables
+- **FOREIGN KEY** column_name **REFERENCES** pk_table_name (pk_column_name): creates a link between the column name in the desired foregin key to reference the primary key in a different table.
