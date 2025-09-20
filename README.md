@@ -68,11 +68,15 @@ total of 300 rows
 ## 3. ERD (Entity-Relationship Diagram)
 Using data dictionary on Oracel SQL Developer, I created an ERD.
 
-
+<img width="844" height="623" alt="Screenshot 2025-09-19 at 9 42 56 PM" src="https://github.com/user-attachments/assets/956d0cab-e204-4925-9711-52a32a7ed3e3" />
 
 *pdf file [here]()*
 
 <br>
 
 ## 4. Assigning PK and FK
-Due to creating the datasets separately through a random data generator, I had to query to manually create relationships using FOREIGN KEY and PRIMARY KEY. I used **'ADD CONSTRAINT'** to define the keys and used **'REFERENCES table(pk)'** to assign the primary keys as foreign keys to tables, **APPOINTMENTS** and **PRESCRIPTIONS**. 
+Due to creating the datasets separately through a random data generator, I had to query to manually create relationships using FOREIGN KEY and PRIMARY KEY.
+<img width="408" height="382" alt="Screenshot 2025-09-19 at 9 44 34 PM" src="https://github.com/user-attachments/assets/58343a7e-afe6-4c95-a7b3-f4d8c28fbbde" />
+
+- ADD CONSTRAINT:
+- 
