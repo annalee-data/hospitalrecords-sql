@@ -95,3 +95,8 @@ EXPLANATION
 <br>
 
 ## 5. Queries
+Here is how I approached each question starting with,
+
+<br>
+
+**1. What is the average hospital stay by condition?**
