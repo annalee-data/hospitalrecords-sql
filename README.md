@@ -70,7 +70,7 @@ Using data dictionary on Oracel SQL Developer, I created an ERD.
 
 <img width="844" height="623" alt="Screenshot 2025-09-19 at 9 42 56 PM" src="https://github.com/user-attachments/assets/956d0cab-e204-4925-9711-52a32a7ed3e3" />
 
-*pdf file [here](Hospital ERD.pdf)*
+*pdf file [here*
 
 <br>
 
