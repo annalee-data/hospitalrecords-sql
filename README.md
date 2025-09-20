@@ -16,7 +16,7 @@ You are working for a mid-sized hospital. Management wants to understand patient
 
 <br>
 
-## 2. Dataset
+## 2. Datasets
 There are a total of 4 CSV files used for this project. These datasets were created by Mockaroo, a random data generator.
 ### 1. [patients.csv](patients.csv) 
 | Variable Name | Type | Description |
@@ -90,4 +90,4 @@ EXPLANATION
     <ins>type of rule</ins> used:
     - PRIMARY KEY: uniquely identifies each row
     - FOREIGN KEY: creates a link between two tables
-- **FOREIGN KEY** column_name **REFERENCES** pk_table_name (pk_column_name): creates a link between the column name in the desired foregin key to reference the primary key in a different table.
+- **FOREIGN KEY** column_name **REFERENCES** pk_table_name (pk_column_name): creates a link between column_name in the desired foregin key to reference the pk_column_name in pk_table_name.
