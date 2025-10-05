@@ -8,7 +8,7 @@ Analyzed hospital reports for answering business questions using SQL.
 You are working for a mid-sized hospital. Management wants to understand patient outcomes, doctor performance, and prescription patterns from the records between the dates 01/01/2021 to 12/31/2023. You are authorized to these hospital records, use SQL to answer management's questions.
 
 ⭐️ Goal: Create SQL queries to answer the following questions.
-1. What is the average hospital stay by condition?
+1. What is the total patients by condition?
 2. What is the patient discharge rate?
 3. What is the most prescribed medication?
 4. Which doctors handle the most appointments?
@@ -101,5 +101,5 @@ Here is how I approached each question starting with,
 
 **1. What is the average hospital stay by condition?**
 
-RELEVANT COLUMNS:
-- 
+RELEVANT COLUMNS
+
