@@ -94,4 +94,6 @@ EXPLANATION
 
 <br>
 
-The SQL file is attached with this repository [here]().
+SQL file with queries, attached [here]().
+
+### Back to Portfolio Hub click [here](https://github.com/annalee-data/portfolio/blob/main/README.md)
