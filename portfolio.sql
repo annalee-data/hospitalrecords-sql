@@ -1,19 +1,27 @@
-/*1. Total patient by condition
-Named condition_outcome.csv*/
+/*
+1. What is the total patients by condtion?
+condition_outcome.csv
+*/
 SELECT condition, 
 COUNT(PATIENT_ID) AS TOTAL_PATIENTS
 FROM PATIENTS
 GROUP BY condition
 ORDER BY TOTAL_PATIENTS DESC;
 
---2. 
+/*
+2. What is the most perscribed medication?
+prescriptions_outcome.csv
+*/
 SELECT MEDICATION_NAME,
 COUNT(PRESCRIPTION_ID) AS PRESCRIPTION_COUNT
 FROM PRESCRIPTIONS
 GROUP BY MEDICATION_NAME
 ORDER BY PRESCRIPTION_COUNT DESC;
 
-
+/*
+3. Which doctors handle the most appointments?
+appointment_outcome.csv
+*/
 SELECT
     A.DOCTOR_ID,
     A.FIRST_NAME,
@@ -25,11 +33,19 @@ LEFT JOIN APPOINTMENTS B
 GROUP BY A.DOCTOR_ID, A.FIRST_NAME, A.LAST_NAME
 ORDER BY APPOINTMENT_COUNT DESC;
 
+/*
+4. What is the patient discharge rate?
+discharged_outcome.csv
+*/
 SELECT 
     (SUM(CASE WHEN DISCHARGED = 'true' THEN 1 ELSE 0 END)/COUNT(*)) * 
     100.00 AS TRUE_PCT
 FROM PATIENTS;
 
+/*
+5. How does the doctor performance look like with patient outcomes?
+doctor_outcome.csv
+*/
 SELECT
     A.DOCTOR_ID,
     A.FIRST_NAME,
