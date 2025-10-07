@@ -5,7 +5,7 @@ Analyzed hospital reports for answering business questions using SQL.
 <br>
 
 ## Business Scenario
-You are working for a mid-sized hospital. Management wants to understand patient outcomes, doctor performance, and prescription patterns from the records between the dates 01/01/2021 to 12/31/2023. You are authorized to these hospital records, use SQL to answer management's questions.
+Management wants to understand patient outcomes, doctor performance, and prescription patterns from the records between the dates 01/01/2021 to 12/31/2023. You are authorized to these hospital records, use SQL to answer management's questions.
 
 ⭐️ Goal: Create SQL queries to answer the following questions.
 1. What is the total patients by condition?
