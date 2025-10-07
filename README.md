@@ -94,6 +94,6 @@ EXPLANATION
 
 <br>
 
-SQL file with queries, attached [here]().
+SQL file with queries, attached [here](portfolio.sql).
 
 ### Back to Portfolio Hub click [here](https://github.com/annalee-data/portfolio/blob/main/README.md)
