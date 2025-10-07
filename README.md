@@ -4,7 +4,7 @@
 Analyzed hospital reports for answering business questions using SQL.
 <br>
 
-## 1. Business Scenario
+## Business Scenario
 You are working for a mid-sized hospital. Management wants to understand patient outcomes, doctor performance, and prescription patterns from the records between the dates 01/01/2021 to 12/31/2023. You are authorized to these hospital records, use SQL to answer management's questions.
 
 ⭐️ Goal: Create SQL queries to answer the following questions.
@@ -16,7 +16,7 @@ You are working for a mid-sized hospital. Management wants to understand patient
 
 <br>
 
-## 2. Datasets
+## Datasets
 There are a total of 4 CSV files used for this project. These datasets were created by Mockaroo, a random data generator.
 ### 1. [patients.csv](patients.csv) 
 | Variable Name | Type | Description |
@@ -65,7 +65,7 @@ total of 300 rows
 
 <br>
 
-## 3. ERD (Entity-Relationship Diagram)
+## ERD (Entity-Relationship Diagram)
 Using data dictionary on Oracel SQL Developer, I created an ERD.
 
 <img width="844" height="623" alt="Screenshot 2025-09-19 at 9 42 56 PM" src="https://github.com/user-attachments/assets/956d0cab-e204-4925-9711-52a32a7ed3e3" />
@@ -94,13 +94,4 @@ EXPLANATION
 
 <br>
 
-## 5. Queries
-Here is how I approached each question starting with,
-
-<br>
-
-**1. What is the total patients by condition?**
-
-
-RELEVANT COLUMNS
 
