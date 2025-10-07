@@ -9,9 +9,9 @@ Management wants to understand patient outcomes, doctor performance, and prescri
 
 ⭐️ Goal: Create SQL queries to answer the following questions.
 1. What is the total patients by condition?
-2. What is the patient discharge rate?
-3. What is the most prescribed medication?
-4. Which doctors handle the most appointments?
+2. What is the most prescribed medication?
+3. Which doctors handle the most appointments?
+4. What is the patient discharge rate?
 5. How does the doctor performance look like with patient outcomes?
 
 <br>
