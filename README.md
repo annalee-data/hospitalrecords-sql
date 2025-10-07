@@ -74,7 +74,7 @@ Using data dictionary on Oracel SQL Developer, I created an ERD.
 
 <br>
 
-## 4. Assigning PK and FK
+## Assigning PK and FK
 Due to creating the datasets separately through a random data generator, I had to query to manually create relationships using FOREIGN KEY and PRIMARY KEY.
 
 <img width="408" height="382" alt="Screenshot 2025-09-19 at 9 44 34 PM" src="https://github.com/user-attachments/assets/58343a7e-afe6-4c95-a7b3-f4d8c28fbbde" />
