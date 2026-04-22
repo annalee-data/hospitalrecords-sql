@@ -96,4 +96,24 @@ EXPLANATION
 
 SQL file with queries, attached [here](portfolio.sql).
 
+
+
+
+## Key Findings
+
+**1. Patients by Condition**
+Arthritis had the highest patient count at 25, followed closely by obesity and hypertension at 24 each. Diabetes and asthma had the lowest counts at 20 patients each.
+
+**2. Most Prescribed Medication**
+Simvastatin was the most prescribed medication with 69 prescriptions, followed by Lisinopril (63) and Omeprazole (61). Notably, all top 3 medications are commonly associated with chronic condition management — consistent with arthritis, hypertension, and heart disease being among the top patient conditions.
+
+**3. Busiest Doctors by Appointments**
+Dr. Joseito Cuniffe handled the most appointments at 27, followed by Dr. Ulrick Boncore and Dr. Rosalie Piesing at 25 each.
+
+**4. Patient Discharge Rate**
+47% of patients were successfully discharged during the 2021–2023 period.
+
+**5. Doctor Performance vs. Patient Outcomes**
+Dr. Gene Scotter had the highest patient improvement rate at 57.14% despite not being the busiest doctor — suggesting appointment volume alone doesn't determine outcome quality. Interestingly, Dr. Ulrick Boncore had one of the highest appointment counts (25) but one of the lowest improvement rates (24%), which may warrant further investigation.
+
 ### Back to Portfolio Hub click [here](https://github.com/annalee-data/portfolio/blob/main/README.md)
